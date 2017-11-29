@@ -1,0 +1,18 @@
+{
+  JsonData: {
+    "Name": "public",
+    "Title": "ÐÑÐ±Ð»Ð¸ÑÐ½Ð°Ñ ÐºÐ¾Ð»Ð»ÐµÐºÑÐ¸Ñ",
+    "Description": "string",
+    "Version": 1,
+    "Key": {
+      "Fields": [
+        "key"
+      ],
+      "Separator": ""
+    },
+    "Protection": "Public",
+    "Schema": {},
+    "Members": []
+  },
+  SignData: 'BA0619F2AF6F3D1383651D392DF01F6EEBE70969D039DC4C8797D257C6C5BA03A2B067D3575B8E2433667212C8F706A4A82FA5E662C76CB74F558E2432ECBC73'
+}
